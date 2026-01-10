@@ -7,7 +7,7 @@
 
 ## About Me
 
-I am a tech graduate with a strong passion for analyzing data to solve real-world problems.  
+I am a tech graduate with a strong passion for analyzing data to solve real-world problems.                                      
 I have a keen interest in Data Science and AI, and I enjoy exploring tools and techniques to drive insights and create solutions.  
 I am constantly learning and applying my skills to turn data into actionable knowledge.
 
@@ -17,6 +17,6 @@ I am constantly learning and applying my skills to turn data into actionable kno
 - 📈 Data Visualization
 - 🧩 Problem Solving with Data
 - 🤖 Machine Learning (aspiring)
-- 🧠 Artificial Intelligence (aspiring)
+- 🧠 Artificial Intelligence 
 - 🔍 Exploring new datasets
 - 💡 Extracting insights from data
