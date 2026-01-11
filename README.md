@@ -20,3 +20,8 @@ I am constantly learning and applying my skills to turn data into actionable kno
 - 🧠 Artificial Intelligence 
 - 🔍 Exploring new datasets
 - 💡 Extracting insights from data
+
+**📫 Let's Connect**
+
+🔗 LinkedIn: [Samuel Ogunmola](https://www.linkedin.com/in/samuel-ogunmola-3189a4223)  
+📧 Email: ogunmolasamuel35@gmail.com
