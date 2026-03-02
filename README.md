@@ -1,7 +1,12 @@
 <h1 align="center">Hi, I'm Samuel Ogunmola 👋</h1>
-<p align="center">Data Analyst | ML/AI Enthusiast | Aspiring Data Scientist</p>
-<p align="center">Python | SQL</p>
 
+<p align="center">
+Data Analyst | ML/AI Enthusiast | Aspiring Data Scientist
+</p>
+
+<p align="center">
+Python • SQL • Power BI
+</p>
 
 
 
